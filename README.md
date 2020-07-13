@@ -1,16 +1,15 @@
-### Hi there 👋
+Eduardo Binns Sánchez
+-------------
+Desde que estaba en el colegio me llamaba la atención el mundo de la tecnología, y cuando entre a el, gracias a la universidad,
+me encontre algo mucho mas impresionante de lo que me esperaba, desde entonces estoy apasionado con este mundo.
 
-<!--
-**EduardoBinns/EduardoBinns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudiante de ingeniería en computación en el ITCR;
+- Desarrollador móvil en Comunidad de Aplicaciones Móviles ITCR;
+- Aprendiendo cosas nuevas con Platzi;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto
+-------------
+
+- [Linkedin](ww.linkedin.com/in/eduar-binns "Linkedin");
+
