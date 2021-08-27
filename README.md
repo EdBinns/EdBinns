@@ -5,7 +5,8 @@ me encontre algo mucho más impresionante de lo que me esperaba, desde entonces 
 
 - Estudiante de ingeniería en computación en el ITCR
 - Desarrollador móvil en Comunidad de Aplicaciones Móviles ITCR
-- Aprendiendo cosas nuevas con Platzi
+- Aprendiendo cosas nuevas con Platzi/Udemy
+- 
 
 
 Contacto
