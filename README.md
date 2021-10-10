@@ -9,8 +9,7 @@ me encontre algo mucho más impresionante de lo que me esperaba, desde entonces 
 
 Habilidades
 -------------
-<img alt=”Java” src=”https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt=”Java” src=”https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 
 Contacto
