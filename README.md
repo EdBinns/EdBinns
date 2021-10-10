@@ -16,17 +16,6 @@ Habilidades
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-Puedes encontrarme en:
--------------
- 
-[![Linkedin](https://github.com/EdBinns/EdBinns/blob/main/Images/linkedin.png)](www.linkedin.com/in/eduar-binns)
-
-[1.1]: https://github.com/EdBinns/EdBinns/blob/main/Images/linkedin.png 
-
-[1]: www.linkedin.com/in/eduar-binns
-
-
-
 Estadísticas:
 -------------
 [![EdBinns's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdBinns&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
