@@ -31,7 +31,7 @@ Puedes encontrarme en:
 
 [![Linkedin][1.1]][1]
 
-[1.1]: https://github.com/EdBinns/EdBinns/tree/main/Images/linkedin.png (Linkedin icon with padding)
+[1.1]: https://github.com/EdBinns/EdBinns/blob/main/Images/linkedin.png (Linkedin icon with padding)
 
 [1]: www.linkedin.com/in/eduar-binns
 
