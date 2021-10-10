@@ -26,7 +26,7 @@ Puedes encontrarme en:
 
 <!-- display the social media buttons in your README -->
 
-[linkedin][www.linkedin.com/in/eduar-binns "linkedin"]
+- [![Linkedin](ww.linkedin.com/in/eduar-binns "Linkedin")](https://github.com/EdBinns/EdBinns/tree/main/Images/linkedin.png);
 
 
 
