@@ -29,7 +29,14 @@ Puedes encontrarme en:
 - ![[Linkedin](ww.linkedin.com/in/eduar-binns "Linkedin")](https://github.com/EdBinns/EdBinns/tree/main/Images/linkedin.png);
 
 
+[![Linkedin][1.1]][1]
 
+[1.1]: https://github.com/EdBinns/EdBinns/tree/main/Images/linkedin.png (Linkedin icon with padding)
+
+[1]: www.linkedin.com/in/eduar-binns
+
+
+- [Linkedin](ww.linkedin.com/in/eduar-binns "Linkedin");
 Estadísticas:
 -------------
 [![EdBinns's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdBinns&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
