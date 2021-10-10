@@ -24,9 +24,6 @@ Puedes encontrarme en:
  ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
-<!-- display the social media buttons in your README -->
-
-- ![[Linkedin](ww.linkedin.com/in/eduar-binns "Linkedin")](https://github.com/EdBinns/EdBinns/tree/main/Images/linkedin.png);
 
 
 [![Linkedin][1.1]][1]
