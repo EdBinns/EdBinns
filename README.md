@@ -24,4 +24,4 @@ Puedes encontrarme en:
  
 
 
-[![EdBinns's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdBinns)](https://github.com/anuraghazra/github-readme-stats)
+[![EdBinns's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdBinns&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
