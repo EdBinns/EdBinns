@@ -16,7 +16,7 @@ Habilidades
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdBins)](https://github.com/EdBinns/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdBinns)](https://github.com/EdBinns/github-readme-stats)
 
 
 Puedes encontrarme en:
