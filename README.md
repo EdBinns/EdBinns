@@ -33,7 +33,7 @@ me encontre algo mucho más impresionante de lo que me esperaba, desde entonces 
 Estadísticas:
 -------------
 [![EdBinns's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdBinns&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdBinns&show_icons=true&theme=radical&langs_count=8&count_private=true&layout=compact)](https://github.com/EdBinns/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdBinns&show_icons=true&theme=radical&langs_count=6&layout=compact)](https://github.com/EdBinns/github-readme-stats)
 
 
 
