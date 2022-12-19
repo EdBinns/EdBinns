@@ -3,8 +3,8 @@ Eduardo Binns Sánchez
 I'm a Android Developer and I really enjoy being able to create apps from scratch, I think  Android Development is very fascinating, even more with Kotlin, this languague is very easy to learn and it has very useful things, I really enjoy coding with this languague.
 
 More about me:
-- Computer Engineering Student at Tecnológico de Costa Rica
-- Android/Frontend Developer at Comunidad de Aplicaciones Móviles ITCR
+- Computer Engineering at Tecnológico de Costa Rica
+- Android Developer at Honor Education
 - Learn new things at Platzi/Udemy
 
 ## Technologies
