@@ -21,10 +21,8 @@ More about me:
 ## Contact
 
 #### Social Media:
-[![Facebook](https://img.shields.io/badge/Facebook-Eduardo_Binns-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/eduardo.binnssanchez/)
 [![Telegram](https://img.shields.io/badge/Telegram-@EdBinns-1877F2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/EdBinns)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo_Binns-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eduar-binns)
-[![Instagram](https://img.shields.io/badge/Instagram-@edbinns-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/ed_binns/)
 
 #### Personal Email:
 [![Email](https://img.shields.io/badge/eduardo.binns.sanchez@gmail.com-my_personal_email_-D14836?style=for-the-badge&logo=outlook&logoColor=white&labelColor=101010)](mailto:eduardo.binns.sanchez@gmail.com)
